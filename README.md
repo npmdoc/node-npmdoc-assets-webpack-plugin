@@ -1,9 +1,11 @@
 # api documentation for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-assets-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-assets-webpack-plugin)
 #### Emits a json file with assets paths
 
-[![NPM](https://nodei.co/npm/assets-webpack-plugin.png?downloads=true)](https://www.npmjs.com/package/assets-webpack-plugin)
+[![NPM](https://nodei.co/npm/assets-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/assets-webpack-plugin)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-assets-webpack-plugin_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-assets-webpack-plugin/build/screenCapture.npmPackageListing.svg)
 
@@ -60,17 +62,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "kossnocorp",
-            "email": "kossnocorp@gmail.com"
+            "name": "kossnocorp"
         },
         {
-            "name": "sporto",
-            "email": "sebasporto@gmail.com"
+            "name": "sporto"
         }
     ],
     "name": "assets-webpack-plugin",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sporto/assets-webpack-plugin.git"
@@ -82,16 +81,6 @@
     "version": "3.5.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module assets-webpack-plugin](#apidoc.module.assets-webpack-plugin)
-
-
-
-# <a name="apidoc.module.assets-webpack-plugin"></a>[module assets-webpack-plugin](#apidoc.module.assets-webpack-plugin)
 
 
 
