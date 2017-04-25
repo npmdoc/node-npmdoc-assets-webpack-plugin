@@ -1,4 +1,7 @@
-# api documentation for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-assets-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-assets-webpack-plugin)
+# npmdoc-assets-webpack-plugin
+
+#### basic api documentation for  [assets-webpack-plugin (v3.5.1)](https://github.com/sporto/assets-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-assets-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-assets-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-assets-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-assets-webpack-plugin)
+
 #### Emits a json file with assets paths
 
 [![NPM](https://nodei.co/npm/assets-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/assets-webpack-plugin)
@@ -78,7 +81,8 @@
         "lint": "standard --verbose | snazzy",
         "test": "mocha test"
     },
-    "version": "3.5.1"
+    "version": "3.5.1",
+    "bin": {}
 }
 ```
 
